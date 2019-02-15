@@ -1,5 +1,7 @@
 # Chatbot
 tensorflow实现 聊天AI_PigPig养成记
+<br>
+代码详解请查看[我的文章](https://segmentfault.com/a/1190000018167518)
 <br><br><br>
 
 训练5500步后，傲娇属性get<br><br>
