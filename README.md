@@ -24,7 +24,7 @@ tensorflow实现 聊天AI_PigPig养成记
 
 <br>
 
-请查看[我的文章](https://segmentfault.com/a/1190000018176747)
+详情请查看[我的文章](https://segmentfault.com/a/1190000018176747)
 <br><br>
 客户端发送信息
 <br>
@@ -40,3 +40,20 @@ AI_PigPig与用户的日常互撩
 ![](https://github.com/ShimmerPig/Chatbot/blob/master/images/3.jpg)
 
 
+<br><br>
+
+# 引入Redis与UI界面
+
+<br>
+
+详情请查看[我的文章](https://segmentfault.com/a/1190000018192926)
+<br><br>
+
+实现效果
+
+<br>
+
+![](https://img-blog.csdnimg.cn/20190218170257972.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTU1Mjg3,size_16,color_FFFFFF,t_70)
+
+
+<br><br>
