@@ -4,7 +4,7 @@ tensorflow实现 聊天AI_PigPig养成记
 # 代码详解
 <br>
 
-请查看[我的文章](https://segmentfault.com/a/1190000018167518)
+请查看[代码详解|tensorflow实现 聊天AI--PigPig养成记(1)](https://segmentfault.com/a/1190000018167518)
 
 <br>
 
@@ -24,7 +24,7 @@ tensorflow实现 聊天AI_PigPig养成记
 
 <br>
 
-详情请查看[我的文章](https://segmentfault.com/a/1190000018176747)
+详情请查看[集成Netty|tensorflow实现 聊天AI--PigPig养成记(2)](https://segmentfault.com/a/1190000018176747)
 <br><br>
 客户端发送信息
 <br>
@@ -46,7 +46,7 @@ AI_PigPig与用户的日常互撩
 
 <br>
 
-详情请查看[我的文章](https://segmentfault.com/a/1190000018192926)
+详情请查看[引入Redis|tensorflow实现 聊天AI--PigPig养成记(3)](https://segmentfault.com/a/1190000018192926)
 <br><br>
 
 实现效果
